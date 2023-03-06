@@ -28,7 +28,7 @@ For example, if we want to upload the 'pong_v3' file to our ESP32 TTGO T-Display
 
 ## Run Generative Art Program 
 - Plug your ESP32 TTGO T-Display to the computer using USB-Type C cable that can transfer data
-- Open `module1 -> module1.ino` in the Arduino IDE
+- Open `module1.ino -> module1.ino` in the Arduino IDE
 - Select `Upload`
 
 ## Installation 
