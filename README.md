@@ -19,6 +19,11 @@ The generative art installation using ESP32 TTGO T-Display is a project in the C
 
 
 ## Example file
+For example, if we want to upload the 'pong_v3' file to our ESP32 TTGO T-Display, here are the steps 
+- Plug your ESP32 TTGO T-Display to the computer using USB-Type C cable that can transfer data
+- In Arduino, select `Files > Examples > TFT_eSPI > 160 x 128 > Pong_v3`
+- Select `Tools -> Port -> /dev/cu.wchusbserialXXXXXXXX`
+- Select `Upload`
 
 
 ## Run Generative Art Program 
