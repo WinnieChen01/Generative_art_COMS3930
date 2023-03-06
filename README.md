@@ -34,6 +34,6 @@ For example, if we want to upload the 'pong_v3' file to our ESP32 TTGO T-Display
 ## Installation 
 
 ## Additional Links
-- blog: 
-- Youtube: https://youtu.be/3tDNlPCysUE (individual display) 
+- blog: https://billowy-mailman-a67.notion.site/Module-1-Generative-Art-663db22f652643688924c8afa24ac93d
+- Youtube: https://youtu.be/3tDNlPCysUE (individual display) https://youtu.be/0vAbq-cCmgQ (Class Installation)
 
