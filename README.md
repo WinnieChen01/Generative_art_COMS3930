@@ -2,6 +2,9 @@
 ## Description
 The generative art installation using ESP32 TTGO T-Display is a project in the Creative Embedded Systems (COMS BC 3930) course taught by Professor Mark Santolucito in Spring 2023. We started from getting to learn ESP32 TTGO T-Display, setting up Arduino and upload example files, to creating our own program on Arduino to visualize a text of our choice on the screen of the ESP32.
 
+![display](https://user-images.githubusercontent.com/104162702/223003139-5aed162a-9042-4e02-bd69-97b09b350693.jpeg)
+
+
 ## Materials
 - ESP32 TTGO T-Display 
 - Platform with 14 Type C pins 
@@ -17,14 +20,12 @@ The generative art installation using ESP32 TTGO T-Display is a project in the C
 - Comment out the line `#include <User_Setup.h>` and Uncomment the line`#include <User_Setups/Setup25_TTGO_T_Display.h>`
 - If your have trouble uploading example file (next section), download driver follow the link [Here](https://github.com/Xinyuan-LilyGO/LilyGo-T-Call-SIM800/issues/139#issuecomment-904390716)
 
-
 ## Example file
 For example, if we want to upload the 'pong_v3' file to our ESP32 TTGO T-Display, here are the steps 
 - Plug your ESP32 TTGO T-Display to the computer using USB-Type C cable that can transfer data
 - In Arduino, select `Files > Examples > TFT_eSPI > 160 x 128 > Pong_v3`
 - Select `Tools -> Port -> /dev/cu.wchusbserialXXXXXXXX`
 - Select `Upload`
-
 
 ## Run Generative Art Program 
 - Plug your ESP32 TTGO T-Display to the computer using USB-Type C cable that can transfer data
