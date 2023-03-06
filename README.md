@@ -4,7 +4,6 @@ The generative art installation using ESP32 TTGO T-Display is a project in the C
 
 ![display](https://user-images.githubusercontent.com/104162702/223003139-5aed162a-9042-4e02-bd69-97b09b350693.jpeg)
 
-
 ## Materials
 - ESP32 TTGO T-Display 
 - Platform with 14 Type C pins 
