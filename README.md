@@ -35,5 +35,5 @@ For example, if we want to upload the 'pong_v3' file to our ESP32 TTGO T-Display
 
 ## Additional Links
 - blog: 
-- Youtube: 
+- Youtube: https://youtu.be/3tDNlPCysUE (individual display) 
 
