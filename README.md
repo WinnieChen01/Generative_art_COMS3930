@@ -15,6 +15,7 @@ The generative art installation using ESP32 TTGO T-Display is a project in the C
 - Select `Boards > ESP32 Arduino > TTGO T1` under `Tools`
 - Find Arduino folder in your local file, open `Arduino -> libraries -> TFT_eSPI -> User_Setup_Select.h`
 - Comment out the line `#include <User_Setup.h>` and Uncomment the line`#include <User_Setups/Setup25_TTGO_T_Display.h>`
+- If your have trouble uploading example file (next section), download driver follow the link [Here](https://github.com/Xinyuan-LilyGO/LilyGo-T-Call-SIM800/issues/139#issuecomment-904390716)
 
 
 ## Example file
